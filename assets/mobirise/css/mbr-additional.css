@@ -10221,6 +10221,12 @@ pre {
   padding-bottom: 280px;
   background-image: url("../../../assets/images/ang-alexheadlands-2000x1500.jpg");
 }
+.cid-s6Akowo1hr .col-md-12 {
+  background-color: #ffffff;
+  opacity: .8;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 .cid-s6Akowo1hr .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
@@ -10235,9 +10241,9 @@ pre {
 .cid-s6Akowo1hr .form-control {
   box-shadow: none;
   padding: 1.07em 1.07em;
-  background-color: #f5f5f5;
+  background-color: #d2ffea;
   border: 1px solid #e8e8e8;
-  color: #656565;
+  color: #333333;
   line-height: 1.43;
   min-height: 3.5em;
   border-radius: .25rem;
@@ -10245,34 +10251,34 @@ pre {
 .cid-s6Akowo1hr .form-control:focus,
 .cid-s6Akowo1hr .form-control:hover {
   border: 1px solid #e8e8e8;
-  background-color: #f5f5f5;
+  background-color: #f4f8fa;
 }
 .cid-s6Akowo1hr .form-group {
   margin-bottom: 1rem;
 }
 .cid-s6Akowo1hr input::-webkit-input-placeholder,
 .cid-s6Akowo1hr textarea::-webkit-input-placeholder {
-  color: #656565;
+  color: #879a9f;
 }
 .cid-s6Akowo1hr input:-moz-placeholder,
 .cid-s6Akowo1hr textarea:-moz-placeholder {
-  color: #656565;
+  color: #879a9f;
 }
 .cid-s6Akowo1hr .jq-selectbox li,
 .cid-s6Akowo1hr .jq-selectbox li {
-  background-color: #f5f5f5;
+  background-color: #d2ffea;
   color: #000000;
 }
 .cid-s6Akowo1hr .jq-selectbox li:hover,
 .cid-s6Akowo1hr .jq-selectbox li.selected {
-  background-color: #f5f5f5;
+  background-color: #f4f8fa;
   color: #000000;
 }
 .cid-s6Akowo1hr .jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #f5f5f5;
+  border-top-color: #d2ffea;
 }
 .cid-s6Akowo1hr .jq-selectbox .jq-selectbox__trigger-arrow {
-  border-top-color: #f5f5f5;
+  border-top-color: #f4f8fa;
 }
 .cid-s6Akowo1hr .form-group,
 .cid-s6Akowo1hr .mbr-section-btn {
